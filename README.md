@@ -14,6 +14,18 @@ A Maven-based web application developed using Java Servlets and JDBC to manage s
 
 ---
 
+## 📂 Project Structure
+
+- Java Classes  
+- Servlets (Controller Layer)  
+- JSP Pages (View Layer)  
+- JDBC Connection  
+- SQL Queries  
+- PostgreSQL Database  
+- Maven (Build Tool) 
+
+---
+
 ## 🛠 Technologies Used
 - Java  
 - Servlets  
